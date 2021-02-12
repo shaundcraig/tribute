@@ -1,4 +1,4 @@
 # tribute
-freecodcamp Tribute Page
+freecodecamp Tribute Page
 
 my first free code camp project
